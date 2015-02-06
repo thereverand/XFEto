@@ -9,7 +9,7 @@ What's here:
 - Harness.Platform.Support : A set of convenience and support code used to port XF to Eto.
 - Xamarin.Platform.Loader : A shim for XF used to implement unsupported platforms. It exposes XF internals to nonfriend assemblies.
 - Xamarin.Forms.Platform.Net : Implementations of XF platform components that can be shared with all full framework platforms.
-- Xamarin.Forms.EtoForms : Support classess and Controls for Eto. This includes controls available in Eto that don't have a analog in XF.
+- Xamarin.Forms.EtoForms : Support classes and Controls for Eto. This includes controls available in Eto that don't have an analog in XF.
 - Xamarin.Forms.Platform.EtoForms : The XF platform for Eto.
 - NuProj projects for creating Nuget Packages (Harness.Platform.Support, Xamarin.Forms.EtoForms, Xamarin.Forms.Shim)
 

@@ -1,0 +1,32 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="3/30/2015 1:29:35 PM" StartupItem="MacSample/MacSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LifePad/LifePad.Application/Views/HomeView.xaml">
+    <Files>
+      <File FileName="LifePad/LifePad.Mac/Main.cs" Line="1" Column="1" />
+      <File FileName="LifePad/LifePad.Application/Services/ScheduleService.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.Forms.EtoForms/EtoForms/Controls/Panel.cs" Line="1" Column="1" />
+      <File FileName="LifePad/LifePad.Application/App.xaml" Line="1" Column="1" />
+      <File FileName="LifePad/LifePad.Application/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="SampleApp/App.xaml" Line="1" Column="1" />
+      <File FileName="LifePad/LifePad.Application/obj/Debug/App.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.Forms.Loader/Platform/HandlerFactory.cs" Line="18" Column="1" />
+      <File FileName="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Extensions.cs" Line="55" Column="1" />
+      <File FileName="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Renderers/EtoForms/Layouts/PanelRenderer.cs" Line="1" Column="1" />
+      <File FileName="Harness.Platform.Support/Extensions.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Renderer.cs" Line="30" Column="1" />
+      <File FileName="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Renderers/XForms/Pages/ContentPageRenderer.cs" Line="17" Column="1" />
+      <File FileName="SampleApp/Pages/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Renderers/ElementRendererBase.cs" Line="319" Column="1" />
+      <File FileName="LifePad/LifePad.Application/Views/HomeView.xaml" Line="10" Column="43" />
+      <File FileName="LifePad/LifePad.Application/Views/HomeView.xaml.cs" Line="8" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Xamarin.Forms.Platform.EtoForms/Forms.cs" line="36" offsetX="363" offsetY="525" expression="form" liveUpdate="False" />
+    <Watch file="Xamarin.Forms.Platform.EtoForms/EtoForms/Handlers/SourceLoadHandler.cs" line="20" offsetX="363" offsetY="285" expression="WebView" liveUpdate="False" />
+    <Watch file="Xamarin.Forms.Platform.EtoForms/Platform/EtoForms/Renderers/ElementRendererBase.cs" line="319" offsetX="826" offsetY="4680" expression="Element" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

@@ -17,7 +17,7 @@ namespace EtoFormsSample {
         private static void Main(string[] args) {
             var platform = new EtoFormsPlatform(Platforms.Wpf);
             Forms.Init(platform, TargetIdiom.Desktop);
-            var window = new Form { Size = new Size(400, 400) };
+            var window = new Form { Size = new Size(800, 600) };
             platform.Run(window, new App());
         }
     }

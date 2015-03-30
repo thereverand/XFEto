@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Xamarin.Forms.EtoForms.Controls;assembly=Xamarin.Forms.EtoForms"
              x:Class="SampleApp.Pages.MainPage"
              Title="Sample Main Page">
-  <Label Text="Running on Eto" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black" />
+ <controls:Splitter>
+ 	<controls:Panel WidthRequest="200" controls:Splitter.IsFixed="True">
+ 		<Label Text="Menu" VerticalOptions="Start" TextColor="Black"></Label>
+ 	</controls:Panel>
+ 	<controls:Panel>
+ 		<WebView x:Name="webView" HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand" Source="http://google.com"/>
+ 	</controls:Panel>
+ </controls:Splitter>
+	
+     
 </ContentPage>
